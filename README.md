@@ -51,6 +51,6 @@ A snapshot of my skills:
 
 ## Let's Connect
 
-I'm always open to interesting discussions and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or via email at eswaran1429@gmail.com. Let's build something great together!
+I'm always open to interesting discussions and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or via email at eswaranr1429@gmail.com. Let's build something great together!
 
 Thanks for visiting my GitHub profile! 😊
