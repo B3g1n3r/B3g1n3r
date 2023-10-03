@@ -19,34 +19,12 @@ Some of the things I'm passionate about:
 - 💻 Mobile application development
 - 🎨 Coding
 
-## Projects
-
-Here are a few projects I've worked on:
-
-1. **Kotlin RecyclerView**: [Repository](Link to Kotlin RecyclerView Repository)
-   - A Kotlin Android application demonstrating the use of RecyclerView for displaying lists.
-
-2. **Flutter Todo App**: [Repository](Link to Flutter Todo App Repository)
-   - A Flutter application for managing tasks and to-do lists.
-
-3. **Flutter Stopwatch**: [Repository](Link to Flutter Stopwatch Repository)
-   - A Flutter stopwatch app for timing events and laps.
-
-4. **Plasma Donor Application**: [Repository](Link to Plasma Donor App Repository)
-   - An innovative platform for blood donation using HTML, CSS, Flask, Docker, and IBM containers.
-
-5. **WhatsApp UI Clone**: [Repository](Link to WhatsApp UI Clone Repository)
-   - A clone of the WhatsApp user interface for practice and learning.
-
-6. **Flutter Internet Checker**: [Repository](Link to Flutter Internet Checker Repository)
-   - A Flutter app for checking and monitoring internet connectivity.
-
 ## Skills
 
 A snapshot of my skills:
 
-- 💻 Programming Languages: JAVA, DART.
-- 🌐 Web Development: HTML, CSS, JS.
+- 💻 Programming Languages: JAVA.
+- 🌐 Web Development: HTML, CSS, JS, React.
 - 🎨 Design: CANVA.
 
 ## Let's Connect
