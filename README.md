@@ -25,7 +25,7 @@ Some of the things I'm passionate about:
 A snapshot of my skills:
 
 - 💻 Programming Languages: JAVA.
-- 🌐 Web Development: HTML, CSS, JS, React.
+- 🌐 Web Development: HTML, CSS, JS.
 - 🎨 Design: CANVA.
 
 ## Let's Connect
