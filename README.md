@@ -16,7 +16,7 @@ Some of the things I'm passionate about:
 
 - 🚀 Cyber security
 - 💻 Mobile application development
-- 🎨 Coding
+- 🎨 Programming
 
 ## Skills
 
