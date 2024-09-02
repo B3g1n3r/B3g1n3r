@@ -25,6 +25,7 @@ A snapshot of my skills:
 - 💻 Programming Languages: JAVA.
 - 🌐 Web Development: HTML, CSS, JS.
 - 🎨 Design: CANVA.
+- 🎨 Database: MongoDb, sql, pl/sql.
 - 📱 Mobile Application Development : Flutter
 
 ## Let's Connect
