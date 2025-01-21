@@ -13,8 +13,8 @@ Welcome to my GitHub profile! Here, you'll find a glimpse of my work, projects, 
 
 Some of the things I'm passionate about:
 
-- 🚀 Cyber security
 - 💻 Mobile application development
+- 🚀 Cyber security
 - 🎨 Programming
 
 ## Skills
